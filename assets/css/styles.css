@@ -1,0 +1,42 @@
+h1 {
+    font-size: 450%;
+    color: white;
+    text-align: center;
+}
+
+div {
+    margin: 10px;
+}
+
+html {
+    background-color: black ;
+}
+
+#header {
+    width: 25%;
+}
+
+#logo {
+    width: 10%;
+}
+
+.head {
+    text-align: center;
+}
+
+.form-btn {
+    width: 100%;
+    margin: 0.8rem 0;
+    border: 0;
+    background-color: var(--color-pink);
+    color: #86FED5;
+    font-weight: 900;
+    font-size: 1.2rem;
+    height: 3.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-btn:hover {
+    color: #FD93DF;
+}
